@@ -3,8 +3,8 @@ package day4;
 public class PrimitiveAndObject {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		int x = 100;
+Integer y=Integer.valueOf(x);
+int z= y.intValue();
 	}
-
 }

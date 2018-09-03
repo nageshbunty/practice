@@ -6,7 +6,7 @@ public class AssaignmentVariables {
      int a = 10;
      float b = 20.54f;
      char c = 'x';
-     string d =I am the best;
+     String d ="I am the best";
      System.out.println(a);
      System.out.println(b);
      System.out.println(c);
